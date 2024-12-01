@@ -9,3 +9,6 @@ frutas.append("Melancia")
 
 for fruta in frutas:
     print()
+
+
+print("Kalani gay gosta de chupa pinto grosso duro")
